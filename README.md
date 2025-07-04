@@ -3,4 +3,4 @@ Este proyecto apunta a desarrollar un sistema de detección de discursos de odio
 Los discursos de odio publicados en redes sociales pueden tener serias consecuencias a nivel social, incluyendo daño psicológico, desinformación, y escalado a violencia en el mundo presencial. Al detectar este tipo de contenido de manera automatizada, se contribuye a crear espacios digitales más seguros, y se promueve una comunicación virtual más respetuosa.\
 Los beneficiarios de este proyecto podrían ser individuos y organizaciones interesados en la moderación de contenido y en el análisis de redes sociales.
 
-[Implementación en Colab](https://colab.research.google.com/drive/12Yg7ICtVlZVMivxCzD_4s7xakUO8DCfN?usp=sharing)
+[Implementación en Colab](https://colab.research.google.com/drive/1Eni6O3Bl_qGXKNa4G9z8HCvvmmjTOv70?usp=sharing)
